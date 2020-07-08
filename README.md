@@ -1,1 +1,1 @@
-# image-upload-to-aws-s3-using-nodejs
+# file-upload-to-aws-s3-using-nodejs
